@@ -145,7 +145,7 @@ body {
   text-align: center;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
-  max-width: 13rem;
+  max-width: 19rem;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -154,11 +154,12 @@ body {
   max-width: 100%;
 }
 .card h1 {
+  font-size: 1.5rem;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 .card p {
-  font-size: 0.75rem;
+  font-size: 15px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
